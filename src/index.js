@@ -5,9 +5,10 @@ const { bold, cyan } = require("chalk").default;
 
 const lines = [
   bold("Alexey Antipov"),
-  "Front End Engineer at Zalando",
+  "Frontend Engineer at Zalando",
   "",
   bold("       Web: ") + cyan("https://alexei.me/"),
+  bold("      Blog: ") + cyan("https://medium.com/@aantipov"),
   bold("   Twitter: ") + cyan("https://twitter.com/_aantipov"),
   bold("    GitHub: ") + cyan("https://github.com/aantipov"),
   bold("  LinkedIn: ") + cyan("https://www.linkedin.com/in/aantipov")
