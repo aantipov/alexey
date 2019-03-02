@@ -1,2 +1,7 @@
 # alexey
-My personal npm/npx command: "npx alexey"
+Run
+```
+npx alexey
+```
+to see my info
+

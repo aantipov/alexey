@@ -1,0 +1,24 @@
+{
+  "name": "alexey",
+  "version": "1.0.0",
+  "description": "Alexey Antipov",
+  "main": "./src/index.js",
+  "files": [
+    "src/"
+  ],
+  "keywords": [],
+  "bin": {
+    "alexey": "./src/index.js"
+  },
+  "author": {
+    "name": "Alexey Antipov",
+    "email": "antipov.alexei@gmail.com",
+    "url": "https://alexei.me"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1"
+  },
+  "devDependencies": {}
+}
