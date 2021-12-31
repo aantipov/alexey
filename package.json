@@ -6,6 +6,7 @@
   "files": [
     "src/"
   ],
+  "type": "module",
   "keywords": [],
   "bin": {
     "alexey": "./src/index.js"
@@ -16,9 +17,12 @@
     "url": "https://alexei.me"
   },
   "license": "MIT",
-  "dependencies": {
-    "boxen": "^2.1.0",
-    "chalk": "^2.4.1"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aantipov/alexey.git"
   },
-  "devDependencies": {}
+  "dependencies": {
+    "boxen": "^6.2.1",
+    "chalk": "^5.0.0"
+  }
 }
